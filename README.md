@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm a master's student and software developer passionate about open source/data/knowledge, simulation software (mainly flight/train simulation) and distributed systems with a strong background in **C++** and **Python**.
+I'm a software developer building distributed and simulation systems with a strong background in **C++** and **Python**. My interests include open source/data/knowledge ecosystems and aviation and railway simulation.
 
-- 🎓 Currently pursuing my Master's degree
-- 💻 Software developer focused on distributed systems, robotics and networking
+- 💼 Software Developer (C++)
+- ⚙️ Focus areas: Simulation Software, Distributed Systems, Networking, Open Source Development 
+- 🛠️ Core skills: C++, Python, Linux, Distributed Systems, Aviation & Railway Systems
 - 🚀 Favorite project: [swift-project/pilotclient](https://github.com/swift-project/pilotclient)
-- 🛠️ Top skills: C++, Python, Linux, Distributed Systems, Aviation
